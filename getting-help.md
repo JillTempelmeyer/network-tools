@@ -28,7 +28,7 @@ lastupdated: "2017-10-20"
 <!-- The short description section should include the service long name and "Bluemix" for search optimization. Example short description: -->
 
 <!-- Add a heading and content for how to get help and support. Use this template for beta and GA services:  -->
-# Getting help and support 
+# Getting Help and Support 
 {: #gettinghelp}
 
 Last updated: 20 October 2017
@@ -41,7 +41,7 @@ When using the forums to ask a question, tag your question so that it is seen by
 <!--Insert the appropriate Stack Overflow tag for your service for <block-storage> in URL and text below:  -->
 * If you have technical questions about IBM Cloud Network Tools, post your question on [Stack Overflow ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://stackoverflow.com/search?q=network-tools+ibm-bluemix){:new_window} and tag your question with "network-tools" and "ibm-bluemix".
 <!--Insert the appropriate dW Answers tag for your service for <service_keyword> in URL below:  -->
-* For questions about the service and getting started instructions, use the [IBM developerWorks dW Answers ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/topics/directlink.html?smartspace=bluemix){:new_window} forum. Include the  "network-tools" and "bluemix" tags.
+* For questions about the service and getting started instructions, use the [IBM developerWorks dW Answers ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/topics/network-tools.html?smartspace=bluemix){:new_window} forum. Include the  "network-tools" and "bluemix" tags.
 
 See [Getting help](https://console.bluemix.net/docs/support/index.html#getting-help) for more details about using the forums.
 

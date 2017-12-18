@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 1994, 2017
-lastupdated: "2017-11-09"
+lastupdated: "2017-12-12"
 ---
 
 {:shortdesc: .shortdesc}
@@ -16,5 +16,3 @@ These tools include:
  * RWHOIS registration and update tool
  * Speed Test tool
  * Looking Glass tool
- 
-With these tools, you can also `ping` a device or host, check a domain's propagation status, perform a `traceroute`, and perform a `whois` query.
