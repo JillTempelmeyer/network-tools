@@ -1,0 +1,25 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="network-tools" audience="service" href="/docs/infrastructure/network-tools/getting-started.html"}
+Netz-Tools
+
+    {: .navgroup id="learn"}
+    getting-started.md
+    about-rir-registration.md
+    looking-glass.md
+    {: .navgroup-end}
+
+    {: .navgroup id="howto"}
+    rir-screen.md
+    register-subnet-rir.md
+    update-registered-subnet.md
+    rwhois-screen.md
+    update-rwhois.md
+    speed-test.md
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    network-tools-faqs.md
+    getting-help.md
+    {: .navgroup-end}
